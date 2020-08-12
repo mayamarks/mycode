@@ -45,7 +45,7 @@ while counter < 4:
         elif question4.capitalize() == "P":
             result[3] = "P"
         else:
-            print("\nInvalid input. Enter J or P")
+            print("\n!!!Invalid input. Enter J or P!!!")
             counter -= 1
 
 print(result)
