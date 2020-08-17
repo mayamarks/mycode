@@ -58,4 +58,3 @@ while i == 0:
                 err()
     else:
         err()
-
